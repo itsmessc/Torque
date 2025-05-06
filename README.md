@@ -5,7 +5,7 @@
 ## Key Features
 
 * **Seamless BLE Connectivity**: Establishes a robust connection with the ESP32 device to ensure reliable data transmission.
-* **Real-time Data Monitoring**: Receives data from the connected MCU500 sensor and displays it within the app.
+* **Real-time Data Monitoring**: Receives data from the connected MPU6050 sensor and displays it within the app.
 * **Session-based Visualization**: Organizes and presents sensor data into user-friendly sessions for easier interpretation.
 * **User-friendly Interface**: Designed with simplicity and usability in mind, providing an intuitive experience for both technical and non-technical users.
 
